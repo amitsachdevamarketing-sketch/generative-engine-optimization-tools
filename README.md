@@ -67,6 +67,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[xfunnel.ai](https://xfunnel.ai)** – Maps the conversion journey *inside* LLM answers: see citations, missing FAQs and optimisation ideas to nudge users to your site.
 - **[Yext](https://www.yext.com/)** – Create and deliver content to any channel with AI-driven visibility.
 - **[Yutori Scouts](https://yutori.com/scouts)** – AI agents that monitor the web and track OpenAI mention sentiment and trends.
+- **[Pro AI Search](https://proaisearch.com) - India's first dedicated resource for GEO, AEO, and LLM SEO. Practitioner guides for businesses on ranking in ChatGPT search, Google AI Overviews, and Perplexity.
 - **[ZipTie.dev](https://ziptie.dev/)** – AI Overviews, ChatGPT and Perplexity tracker.
 ---
 
