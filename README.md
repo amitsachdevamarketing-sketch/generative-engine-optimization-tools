@@ -49,6 +49,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Profound](https://tryprofound.com)** – Enterprise “Answer-Engine Insights” showing where, how and *why* LLMs mention your brand; API + Slack alerts. Lite starts at $499 / mo.
 - **[Promptmonitor](https://www.promptmonitor.io/?ref=taaft&utm_source=taaft&utm_medium=referral)** – GEO monitoring with prompt testing and answer visibility tracking.
 - **[Promptwatch](https://aitools.inc/tools/promptwatch)** – Tracks brand mentions, pinpoints “answer gaps” and suggests new content topics to fill them.
+- **[Pro AI Search](https://proaisearch.com)** - India's first dedicated resource for GEO, AEO, and LLM SEO. Practitioner guides for businesses on ranking in ChatGPT search, Google AI Overviews, and Perplexity.
 - **[Quno.ai](https://quno.ai)** – Brand-visibility scorecard, prompt-library tester and AI-SEO writer rolled into one; free tier available.
 - **[Rankscale.ai](https://rankscale.ai)** – Generative-Engine-Optimisation suite with rank tracking, competitive gaps and a handy AEO/GEO tactics blog.
 - **[Scalenut](https://www.scalenut.com/)** – AI SEO and content suite with generative search optimization features.
@@ -67,7 +68,6 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[xfunnel.ai](https://xfunnel.ai)** – Maps the conversion journey *inside* LLM answers: see citations, missing FAQs and optimisation ideas to nudge users to your site.
 - **[Yext](https://www.yext.com/)** – Create and deliver content to any channel with AI-driven visibility.
 - **[Yutori Scouts](https://yutori.com/scouts)** – AI agents that monitor the web and track OpenAI mention sentiment and trends.
-- **[Pro AI Search](https://proaisearch.com) - India's first dedicated resource for GEO, AEO, and LLM SEO. Practitioner guides for businesses on ranking in ChatGPT search, Google AI Overviews, and Perplexity.
 - **[ZipTie.dev](https://ziptie.dev/)** – AI Overviews, ChatGPT and Perplexity tracker.
 ---
 
